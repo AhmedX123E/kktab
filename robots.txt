@@ -1,8 +1,1 @@
-# Moroccan Treasures - Moroccan Treasures — كنوز المغرب
-# https://moroccan-treasures.netlify.app
 
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://moroccan-treasures.netlify.app/sitemap.xml
